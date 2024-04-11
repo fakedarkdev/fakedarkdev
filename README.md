@@ -11,7 +11,7 @@
 - 💼 FrontEnd Developer at [SpicyDevs](https://spicydevs.js.org/)
 - 👨🏼‍🎓 14 y/o 8th Grader from **India**.
 - 🎀 Checkout my [Portfolio](https://fakedarkdev.js.cool) and [LinkTree](https://linktr.ee/fakedarkdev).
-- 💬 Find me [here](https://spicydevs.js.org/discord).
+- 💬 Find me [here](https://spicydevs.js.org/discord) or mail me [here](mailto:dikhitdas@outlook.com).
 
 <br />
 
@@ -62,6 +62,6 @@
 
 <a href="https://discordapp.com/users/709311435314036827">
   <p>
-    <img src="https://discord-readme-badge.vercel.app/api?id=709311435314036827" alt="My Discord" title="Click for my discord profile">
+    <img src="https://lanyard.cnrad.dev/api/709311435314036827" alt="My Discord" title="Click for my discord profile">
   </p>
 </a>
