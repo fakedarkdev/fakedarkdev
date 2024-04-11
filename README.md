@@ -62,6 +62,6 @@
 
 <a href="https://discordapp.com/users/709311435314036827">
   <p>
-    <img src="https://lanyard.cnrad.dev/api/709311435314036827" alt="My Discord" title="Click for my discord profile">
+    <img src="https://lanyard.cnrad.dev/api/709311435314036827?showDisplayName=true&bg=141321&idleMessage=Probably%20busy%20with%20something%20else..." alt="My Discord" title="Click for my discord profile">
   </p>
 </a>
