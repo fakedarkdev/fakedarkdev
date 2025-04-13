@@ -1,6 +1,6 @@
 <a href="https://fakedarkdev.github.io">
   <p>
-    <img src="https://discord.c99.nl/widget/theme-2/709311435314036827.png" alt="Discord" />
+    <img src="https://discord.c99.nl/widget/theme-1/709311435314036827.png" alt="Discord" />
   </p>
 </a>
 
