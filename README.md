@@ -10,7 +10,7 @@
 
 - 💼 FrontEnd Developer at [SpicyDevs](https://spicydevs.js.org/)
 - 👨🏼‍🎓 14 y/o 8th Grader from **India**.
-- 🎀 Checkout my [Portfolio](https://fakedarkdev.js.cool) and [LinkTree](https://linktr.ee/fakedarkdev).
+- 🎀 Checkout my [Portfolio](https://fakedarkdev.github.io) and [LinkTree](https://linktr.ee/fakedarkdev).
 - 💬 Find me [here](https://spicydevs.js.org/discord) or mail me [here](mailto:dikhitdas@outlook.com).
 
 <br />
