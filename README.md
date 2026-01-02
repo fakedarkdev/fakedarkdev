@@ -1,8 +1,8 @@
-<a href="https://fakedarkdev.github.io">
+<!-- <a href="https://fakedarkdev.github.io">
   <p>
     <img src="https://discord.c99.nl/widget/theme-1/709311435314036827.png" alt="Discord" />
   </p>
-</a>
+</a> -->
 
 ### I'm a self-taught passionate FrontEnd developer from **India** 🇮🇳.
 
@@ -15,7 +15,7 @@
 
 <br />
 
-<a href="https://github.com/fakedarkdev/fakedarkdev">
+<!-- <a href="https://github.com/fakedarkdev/fakedarkdev">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakedarkdev&layout=compact&show_icons=true&theme=radical" alt="Dikhit's most used languages" title="Dikhit's most used languages" />
   </p>
@@ -24,7 +24,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=fakedarkdev&show_icons=true&theme=radical" alt="Dikhit's GitHub stats" title="Dikhit's GitHub stats" />
   </p>
-</a>
+</a> -->
 <a href="https://github.com/fakedarkdev/fakedarkdev">
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakedarkdev&theme=radical" alt="Dikhit's streak stats" title="Dikhit's streak stats" />
@@ -40,7 +40,7 @@
 
 <br />
 
-#### Top Repositories
+<!--- #### Top Repositories
 
 <a href="https://github.com/fakedarkdev/fakedarkdev.github.io">
   <p>
@@ -52,7 +52,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fakedarkdev&repo=fakedarkdev&show_icons=true&theme=radical" alt="Dikhit's top repos" title="Dikhit's top repos" />
   </p>
-</a>
+</a> --->
 
 <br />
 
