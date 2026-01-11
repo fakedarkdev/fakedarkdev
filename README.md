@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=fakedarkdev&show_icons=true&theme=radical" alt="Dikhit's GitHub stats" title="Dikhit's GitHub stats" />
   </p>
 </a> -->
-<a href="https://github.com/fakedarkdev/fakedarkdev">
+<!-- <a href="https://github.com/fakedarkdev/fakedarkdev">
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakedarkdev&theme=radical" alt="Dikhit's streak stats" title="Dikhit's streak stats" />
   </p>
@@ -34,11 +34,11 @@
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=fakedarkdev&theme=radical" alt="Dikhit's Trophies" title="Dikhit's Trophies" />
   </p>
-</a>
+</a> -->
 
-<br />
+<!-- <br />
 
-<br />
+<br /> -->
 
 <!--- #### Top Repositories
 
@@ -54,9 +54,9 @@
   </p>
 </a> --->
 
-<br />
+<!-- <br />
 
-<br />
+<br /> -->
 
 ### Current Discord Status (Click below for my discord profile)
 
