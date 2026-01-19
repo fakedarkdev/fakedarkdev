@@ -1,8 +1,8 @@
-<a href="https://fakedarkdev.github.io">
+<!-- <a href="https://fakedarkdev.github.io">
   <p>
     <img src="https://discord.c99.nl/widget/theme-1/709311435314036827.png" alt="Discord" />
   </p>
-</a>
+</a> -->
 
 ### I'm a self-taught passionate FrontEnd developer from **India** 🇮🇳.
 
@@ -13,7 +13,7 @@
 - 🎀 Checkout my [Portfolio](https://fakedarkdev.github.io) and [LinkTree](https://linktr.ee/fakedarkdev).
 - 💬 Find me [here](https://spicydevs.js.org/discord) or mail me [here](mailto:dikhitdas@outlook.com).
 
-<br />
+<!-- <br />
 
 <a href="https://github.com/fakedarkdev/fakedarkdev">
   <p>
@@ -56,7 +56,7 @@
 
 <br />
 
-<br />
+<br /> -->
 
 ### Current Discord Status (Click below for my discord profile)
 
