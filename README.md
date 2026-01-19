@@ -4,13 +4,13 @@
   </p>
 </a> -->
 
-### I'm a self-taught passionate FrontEnd developer from **India** 🇮🇳.
+### I'm a self-taught passionate Developer.
 
 **About me**
 
-- 💼 FrontEnd Developer at [SpicyDevs](https://spicydevs.js.org/)
-- 👨🏼‍🎓 14 y/o from **India**.
-- 🎀 Checkout my [Portfolio](https://fakedarkdev.github.io) and [LinkTree](https://linktr.ee/fakedarkdev).
+- 👨🏼‍🎓 Teen from **India**.
+- 🎀 Checkout my [Portfolio](https://ikrdikhit.github.io)
+- 💼 Developer at [SpicyDevs](https://spicydevs.js.org/)
 - 💬 Find me [here](https://spicydevs.js.org/discord) or mail me [here](mailto:dikhitdas@outlook.com).
 
 <!-- <br />
